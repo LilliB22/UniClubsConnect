@@ -4,3 +4,5 @@ University students often seek better ways to connect, share experiences, and co
 ^ Original idea for app 
 
 ! Warning: this app does not work; it is missing the database piece for login because I was using a limited free tier for the database. 
+
+** Includes an image and video of the app working**
